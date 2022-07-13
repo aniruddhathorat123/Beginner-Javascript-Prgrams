@@ -1,0 +1,5 @@
+Console:
+-In JavaScript, the console keyword refers to an object, a collection of data and actions, that we can use in our code. 
+-One action, or method, that is built into the console object is the .log() method. When we write console.log() what we put inside the parentheses will get printed, or logged, to the console.
+
+- JavaScript isn't a classed-based langauge – it's is a prototype-based langauge. A prototype-based language has the notion of a prototypical object, an object used as a template from which to get the initial properties for a new object.
